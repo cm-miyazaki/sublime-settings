@@ -1,0 +1,12 @@
+{
+	"aprosopo_active_bar": true,
+	"aprosopo_dark_dirty_red": true,
+	"aprosopo_dark_purple": true,
+	"color_scheme": "Packages/User/Tomorrow-Night-Eighties-Stormy (SL).tmTheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Aprosopo Dark@st3.sublime-theme"
+}
