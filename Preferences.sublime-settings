@@ -6,7 +6,9 @@
 	"font_size": 13,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"HTML5",
+		"Japanize"
 	],
 	"theme": "Aprosopo Dark@st3.sublime-theme"
 }
