@@ -5,16 +5,22 @@
 		"Compass",
 		"ConvertToUTF8",
 		"CSScomb",
+		"Git",
+		"Haxe",
+		"HTML5",
 		"IMESupport",
 		"Japanize",
 		"JSHint",
+		"Predawn",
 		"SCSS",
 		"SCSS Snippets",
+		"Seti_UI",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-jshint",
 		"Theme - Aprosopo",
 		"Theme - Cobalt2",
 		"Theme - Flatland",
-		"Theme - itg.flat"
+		"Theme - Spacegray"
 	]
 }
