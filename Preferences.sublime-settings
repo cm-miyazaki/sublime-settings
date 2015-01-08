@@ -6,11 +6,11 @@
 	"font_size": 12,
 	"ignored_packages":
 	[
-		"SublimeLinter-jshint",
 		"Vintage",
-		"Theme - Aprosopo",
+		"SublimeLinter-jshint",
+		"Japanize",
 		"HTML5",
-		"Japanize"
+		"Theme - Aprosopo"
 	],
 	"theme": "predawn.sublime-theme"
 }
