@@ -2,19 +2,34 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"BracketHighlighter",
 		"Compass",
 		"ConvertToUTF8",
 		"CSScomb",
+		"Git",
+		"Haxe",
+		"HTML Minifier",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
 		"IMESupport",
 		"Japanize",
+		"jQuery",
 		"JSHint",
+		"Package Control",
+		"Predawn",
 		"SCSS",
 		"SCSS Snippets",
+		"Seti_UI",
+		"Smart Delete",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-jsxhint",
+		"SuperSelect",
 		"Theme - Aprosopo",
 		"Theme - Cobalt2",
 		"Theme - Flatland",
-		"Theme - itg.flat"
+		"Theme - Spacegray",
+		"TrailingSpaces"
 	]
 }
