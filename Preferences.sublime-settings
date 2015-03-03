@@ -3,16 +3,16 @@
 	"aprosopo_dark_dirty_red": true,
 	"aprosopo_dark_purple": true,
 	"color_scheme": "Packages/User/predawn (SL).tmTheme",
-	"font_size": 12,
+	"font_size": 11,
 	"ignored_packages":
 	[
-		"HTML5",
 		"Japanize",
 		"Local History",
 		"SublimeLinter-jshint",
-		"Theme - Aprosopo",
+		"Vintage",
+		"HTML5",
 		"TortoiseSVN",
-		"Vintage"
+		"Theme - Aprosopo"
 	],
 	"theme": "predawn.sublime-theme"
 }
